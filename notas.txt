@@ -1,0 +1,1 @@
+Corte 1: Prueba corta 1: [20.0], Prueba corta 2: [20.0], Parcial: [20.0], Definitiva del corte: [5.0]
