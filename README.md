@@ -23,6 +23,7 @@ Estado actual y futuros desarrollos:
 - [x] Interfaz CLI
 - [x] Registro de los datos en .txt
 - [x] Registro de los datos en JSON
+- [x] Docsting
 - [ ] Completar el proceso CRUD
 - [ ] Desarrollo de una GUI (Interfaz Gráfica de Usuario)
 - [ ] Integración mediante BDD
